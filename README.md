@@ -1,6 +1,6 @@
 #Docker containerized Kubernetes register
 
-## Register release  v0.0.3
+## Register release  v0.0.4
 
 To run
 
